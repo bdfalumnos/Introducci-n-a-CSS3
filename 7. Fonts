@@ -1,0 +1,29 @@
+Fonts
+Cada símbolo que se puede representar en una familia de fuentes se conoce como glifo o pictograma.
+
+Algunas Familias Básicas
+serif
+Es el tipo de letra que lleva adornos.
+
+Cada glifo puede tener un ancho diferente al de los otros de la misma familia.
+
+Permite leer cómodamente textos largos.
+
+Viene predefinida, pero la familia exacta depende de cada navegador web.
+
+Ejemplo de Serif.
+
+sans-serif
+Es el tipo de letra que no lleva adornos.
+
+Luce más en títulos, textos cortos e interfaces de usuario.
+
+Cada glifo puede tener un ancho diferente al de los otros de la misma familia.
+
+Viene predefinida, pero la familia exacta depende de cada navegador web.
+
+Ejemplo de Sans Serif.
+
+Temas por Investigar
+El módulo de fonts de CSS3.
+https://www.w3.org/TR/css-fonts-3/

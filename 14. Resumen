@@ -1,0 +1,18 @@
+Resumen
+El lenguaje CSS permite definir la apariencia de un documento HTML.
+
+El lenguaje CSS utiliza:
+
+Comentarios
+
+Reglas de Estilo
+
+Una regla de estilo une una lista de selectores con una lista de definiciones de propiedades.
+
+Se estudiaron las siguientes propiedades:
+
+font-family
+
+color
+
+background-color

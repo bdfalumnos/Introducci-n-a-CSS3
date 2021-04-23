@@ -1,0 +1,78 @@
+Colores en CSS
+Colores primarios
+Los colores se expresan como una combinación de los colores primarios:
+
+Rojo (red en inglés)
+
+Verde (green en inglés)
+
+Azul (blue en inglés)
+
+Especificación de los colores primarios y transparencia
+Estas son algunas formas de expresar los colores primarios en las definiciones que aparecen después:
+
+num_rojo
+Valor decimal entre 0 y 255. Indica la cantidad de rojo que lleva un color.
+
+num_verde
+Valor decimal entre 0 y 255. Indica indica la cantidad de verde que lleva un color.
+
+num_azul
+Valor decimal entre 0 y 255. Indica la cantidad de azul que lleva un color.
+
+num_transp
+Valor decimal fraccionario entre 0 y 1. Indica lo transparente que es un color: 0 - totalmente transparente, 1 - totalmente opaco.
+
+rr
+Valor de 2 cifras hexadecimales entre 00 y ff. Indica la cantidad de rojo que lleva un color.
+
+gg
+Valor de 2 cifras hexadecimales entre 00 y ff. Indica la cantidad de verde que lleva un color.
+
+bb
+Valor de 2 cifras hexadecimales entre 00 y ff. Indica la cantidad de azul que lleva un color.
+
+aa
+Valor de 2 cifras hexadecimales entre 00 y ff. Indica lo transparente que es un color. 00 - totalmente transparente, ff - totalmente opaco.
+
+Algunas Formas de Expresar Colores en CSS3
+transparent
+Color transparente.
+
+Nombre del color
+Los nombres de colores que se pueden usar están definidos en https://www.w3.org/TR/css-color-3/#html4. y en https://www.w3.org/TR/css-color-3/#svg-color.
+
+Ejemplo:
+
+blue
+
+rgb(num_rojo, num_verde, num_azul)
+Representa la mezcla de colores rojo, verde y azul en notación decimal.
+
+Ejemplo:
+
+rgb(155, 255, 43)
+
+rgba(num_rojo, num_verde, num_azul, num_transp)
+Representa la mezcla de rojo, verde, azul y transparencia en notación decimal.
+
+Ejemplo:
+rgba(155,255,43,0.7)
+
+#rrggbb
+Representa la mezcla de colores rojo, verde y azul en notación hexadecimal.
+
+Ejemplo:
+
+#a2fe09
+
+#rrggbbaa
+Representa la mezcla de rojo, verde, azul y transparencia en notación hexadecimal.
+
+Ejemplo:
+#0b467380
+
+Temas por Investigar
+Una herramienta muy interesante para el uso de colores en sitios web es https://paletton.com/
+
+El Módulo de colores de CSS3.
